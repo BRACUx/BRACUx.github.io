@@ -1,2 +1,2 @@
 # BRACUx.github.io
-BRACU CGPA Calculator
+BRACU CGPA Calculator 0.01 Beta
